@@ -1,0 +1,6 @@
+__pycache__*
+build
+dist
+venv
+filip_python_economy.egg-info/
+.idea
